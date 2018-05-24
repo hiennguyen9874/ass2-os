@@ -1,0 +1,6 @@
+1 5
+alloc 40960 0
+alloc 30720 1
+alloc 30720 2
+alloc 30720 3
+free 1

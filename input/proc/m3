@@ -1,0 +1,12 @@
+1 11
+alloc 12345 0
+alloc 15443 1
+alloc 15678 2
+free 0
+alloc 5000 3
+alloc 4860 4
+free 1
+free 2
+free 4
+alloc 10000 5
+write 99 5 10
